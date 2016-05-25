@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/aurum/Projects/workspace/Pdf-Service/conf/application.conf,/home/aurum/Projects/workspace/Pdf-Service/target/scala-2.10/sbt-0.13/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/home/aurum/Projects/workspace/Pdf-Service/conf/logback.xml,/home/aurum/Projects/workspace/Pdf-Service/target/scala-2.10/sbt-0.13/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/home/aurum/Projects/workspace/Pdf-Service/conf/routes,/home/aurum/Projects/workspace/Pdf-Service/target/scala-2.10/sbt-0.13/classes/routes)[0m
